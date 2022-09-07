@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: [Jet-Black](https://github.com/Fractal-Tess/Jet-Black)
 
-- 🌱 I’m currently learning: **Tauri & Svelte**
+- 🌱 I’m currently learning: **Tauri, Svelte/Kit and React**
 
 - 📫 How to reach me: **vgfractal@gmail.com**
 
