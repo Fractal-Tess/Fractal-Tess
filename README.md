@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vilian Gerdzhikov</h1>
 <h3 align="center">An asparing Full-Stack web developer with passion for Docker and Cats</h3>
 
-- 🔭 I’m currently working on: [Jet-Black](https://github.com/Fractal-Tess/Jet-Black)
+- 🔭 I’m currently working on: [Jet-Black](https://github.com/Azure-Blade/Jet-Black)
 
 - 🌱 I’m currently learning: **Tauri, Svelte/Kit and React**
 
