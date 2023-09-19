@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on: [Jet-Black](https://github.com/Azure-Blade/Jet-Black)
 
-- 🌱 I’m currently learning: **Tauri, Svelte/Kit and React**
-
-- 📫 How to reach me: **vgfractal@gmail.com**
-
 <div align="center" style='display:flex; flex-wrap:wrap;'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fractal-Tess&layout=compact&theme=dark&langs_count=8" alt="fractal-tess" />
   <br/>
