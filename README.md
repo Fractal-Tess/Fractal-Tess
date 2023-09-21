@@ -7,11 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fractal-Tess&layout=compact&theme=dark&langs_count=8" alt="fractal-tess" />
   <br/>
   <br/>
-  <br/>
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fractal-tess&show_icons=true&locale=en" alt="fractal-tess" /> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fractal-tess&" alt="fractal-tess" />
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fractal-tess" alt="fractal-tess" />
-  </a>  -->
 
 </div>
